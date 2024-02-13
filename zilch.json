@@ -1,0 +1,9 @@
+{
+  "v": 1,
+  "name": "Blissful Butterfly",
+  "avatar": "acaKKacuLuGjJaaaa",
+  "preferredColor": "green",
+  "language": "javascript.node",
+  "game": "tic-tac-toe",
+  "run": "node main.js"
+}
